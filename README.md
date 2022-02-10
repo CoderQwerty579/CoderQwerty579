@@ -1,0 +1,4 @@
+- Hello fellow programmers.
+- I’m interested in History, programming and lingustics.
+- I’m currently programming in c++
+- discord: Przecinek#9847
